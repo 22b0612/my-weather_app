@@ -1,4 +1,4 @@
-import 'package:lutter/material.dart';
+import 'package:flutter/material.dart';
 import 'package:weather_app/Screens/home/home.dart';
 import 'package:weather_app/Screens/location/location.dart';
 import 'package:weather_app/Screens/weather/weather.dart';
